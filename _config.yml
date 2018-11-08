@@ -1,6 +1,6 @@
 # Site
-title:              Moon
-bio:                'Minimal, one column jekyll theme.'
+title:              Sanjay Sharma
+bio:                'Java and Android developer. Oracle Certified Java Programmer. I enjoy developing android apps. I developed one app which has 100K+ downloads and 4.5 rating on PlayStore. I am currently working on Java (Spring Boot), DevOps and Android.'
 description:        "Moon is a minimal, one column jekyll theme for your blog."
 reading_time:       true
 words_per_minute:   200
@@ -38,9 +38,9 @@ disqus_shortname:   taylantatli
   #ad-slot:
 #bing-verify:
 #email:
-twitter:            username
-facebook:           username
-github-url:         username
+twitter:            snjshrma07
+facebook:           sanjaysharma07
+github-url:         snj07
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
