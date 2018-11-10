@@ -107,7 +107,7 @@ hr {
 // images and figures
 img {
     display: block;
-	max-width: 100%;
+	  max-width: 100%;
     width: auto;
     height: auto;
     vertical-align: middle;
@@ -119,9 +119,10 @@ img {
 }
 .img-circle {
 	border-radius: 50%;
-	border: 3px solid $white;
+	border: 3px solid $color_mercury;
 	height: 150px;
-	width: 150px;
+  width: 150px;
+  object-fit: cover;  
 }
 .author-photo {
     background-color: $white;
